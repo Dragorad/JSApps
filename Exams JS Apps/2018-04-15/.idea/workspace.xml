@@ -1,0 +1,1601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c36ab4ce-bade-47b4-9392-418426934a92" name="Default" comment="JsApps Exam SoftUni 15 apr 2018" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="Exam April2018/.idea/dictionaries/Dr.xml" />
+    <ignored path="Exam April2018/.idea/Exam042018.iml" />
+    <ignored path="Exam April2018/.idea/jsLibraryMappings.xml" />
+    <ignored path="Exam April2018/.idea/misc.xml" />
+    <ignored path="Exam April2018/.idea/modules.xml" />
+    <ignored path="Exam April2018/.idea/workspace.xml" />
+    <ignored path="Exam April2018/node_modules/.bin/handlebars" />
+    <ignored path="Exam April2018/node_modules/.bin/handlebars.cmd" />
+    <ignored path="Exam April2018/node_modules/.bin/uglifyjs" />
+    <ignored path="Exam April2018/node_modules/.bin/uglifyjs.cmd" />
+    <ignored path="Exam April2018/node_modules/align-text/index.js" />
+    <ignored path="Exam April2018/node_modules/align-text/LICENSE" />
+    <ignored path="Exam April2018/node_modules/align-text/package.json" />
+    <ignored path="Exam April2018/node_modules/align-text/README.md" />
+    <ignored path="Exam April2018/node_modules/amdefine/amdefine.js" />
+    <ignored path="Exam April2018/node_modules/amdefine/intercept.js" />
+    <ignored path="Exam April2018/node_modules/amdefine/LICENSE" />
+    <ignored path="Exam April2018/node_modules/amdefine/package.json" />
+    <ignored path="Exam April2018/node_modules/amdefine/README.md" />
+    <ignored path="Exam April2018/node_modules/async/dist/async.js" />
+    <ignored path="Exam April2018/node_modules/async/dist/async.min.js" />
+    <ignored path="Exam April2018/node_modules/async/lib/async.js" />
+    <ignored path="Exam April2018/node_modules/async/CHANGELOG.md" />
+    <ignored path="Exam April2018/node_modules/async/LICENSE" />
+    <ignored path="Exam April2018/node_modules/async/package.json" />
+    <ignored path="Exam April2018/node_modules/async/README.md" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/css/bootstrap-theme.css" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/css/bootstrap-theme.css.map" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/css/bootstrap-theme.min.css" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/css/bootstrap-theme.min.css.map" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/css/bootstrap.css" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/css/bootstrap.css.map" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/css/bootstrap.min.css" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/css/bootstrap.min.css.map" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/js/bootstrap.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/js/bootstrap.min.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/dist/js/npm.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+    <ignored path="Exam April2018/node_modules/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+    <ignored path="Exam April2018/node_modules/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+    <ignored path="Exam April2018/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+    <ignored path="Exam April2018/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+    <ignored path="Exam April2018/node_modules/bootstrap/grunt/.jshintrc" />
+    <ignored path="Exam April2018/node_modules/bootstrap/grunt/bs-commonjs-generator.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/grunt/bs-glyphicons-data-generator.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/grunt/bs-lessdoc-parser.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/grunt/bs-raw-files-generator.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/grunt/change-version.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/grunt/configBridge.json" />
+    <ignored path="Exam April2018/node_modules/bootstrap/grunt/npm-shrinkwrap.json" />
+    <ignored path="Exam April2018/node_modules/bootstrap/grunt/sauce_browsers.yml" />
+    <ignored path="Exam April2018/node_modules/bootstrap/js/affix.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/js/alert.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/js/button.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/js/carousel.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/js/collapse.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/js/dropdown.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/js/modal.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/js/popover.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/js/scrollspy.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/js/tab.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/js/tooltip.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/js/transition.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/alerts.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/background-variant.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/border-radius.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/buttons.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/center-block.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/clearfix.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/forms.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/gradients.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/grid-framework.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/grid.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/hide-text.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/image.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/labels.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/list-group.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/nav-divider.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/nav-vertical-align.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/opacity.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/pagination.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/panels.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/progress-bar.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/reset-filter.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/reset-text.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/resize.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/responsive-visibility.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/size.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/tab-focus.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/table-row.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/text-emphasis.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/text-overflow.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins/vendor-prefixes.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/alerts.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/badges.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/bootstrap.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/breadcrumbs.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/button-groups.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/buttons.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/carousel.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/close.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/code.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/component-animations.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/dropdowns.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/forms.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/glyphicons.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/grid.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/input-groups.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/jumbotron.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/labels.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/list-group.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/media.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/mixins.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/modals.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/navbar.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/navs.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/normalize.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/pager.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/pagination.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/panels.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/popovers.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/print.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/progress-bars.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/responsive-embed.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/responsive-utilities.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/scaffolding.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/tables.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/theme.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/thumbnails.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/tooltip.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/type.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/utilities.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/variables.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/less/wells.less" />
+    <ignored path="Exam April2018/node_modules/bootstrap/CHANGELOG.md" />
+    <ignored path="Exam April2018/node_modules/bootstrap/Gruntfile.js" />
+    <ignored path="Exam April2018/node_modules/bootstrap/LICENSE" />
+    <ignored path="Exam April2018/node_modules/bootstrap/package.json" />
+    <ignored path="Exam April2018/node_modules/bootstrap/README.md" />
+    <ignored path="Exam April2018/node_modules/camelcase/index.js" />
+    <ignored path="Exam April2018/node_modules/camelcase/license" />
+    <ignored path="Exam April2018/node_modules/camelcase/package.json" />
+    <ignored path="Exam April2018/node_modules/camelcase/readme.md" />
+    <ignored path="Exam April2018/node_modules/center-align/index.js" />
+    <ignored path="Exam April2018/node_modules/center-align/LICENSE" />
+    <ignored path="Exam April2018/node_modules/center-align/package.json" />
+    <ignored path="Exam April2018/node_modules/center-align/README.md" />
+    <ignored path="Exam April2018/node_modules/center-align/utils.js" />
+    <ignored path="Exam April2018/node_modules/cliui/node_modules/wordwrap/example/center.js" />
+    <ignored path="Exam April2018/node_modules/cliui/node_modules/wordwrap/example/meat.js" />
+    <ignored path="Exam April2018/node_modules/cliui/node_modules/wordwrap/test/break.js" />
+    <ignored path="Exam April2018/node_modules/cliui/node_modules/wordwrap/test/idleness.txt" />
+    <ignored path="Exam April2018/node_modules/cliui/node_modules/wordwrap/test/wrap.js" />
+    <ignored path="Exam April2018/node_modules/cliui/node_modules/wordwrap/.npmignore" />
+    <ignored path="Exam April2018/node_modules/cliui/node_modules/wordwrap/index.js" />
+    <ignored path="Exam April2018/node_modules/cliui/node_modules/wordwrap/package.json" />
+    <ignored path="Exam April2018/node_modules/cliui/node_modules/wordwrap/README.markdown" />
+    <ignored path="Exam April2018/node_modules/cliui/test/cliui.js" />
+    <ignored path="Exam April2018/node_modules/cliui/.coveralls.yml" />
+    <ignored path="Exam April2018/node_modules/cliui/.npmignore" />
+    <ignored path="Exam April2018/node_modules/cliui/.travis.yml" />
+    <ignored path="Exam April2018/node_modules/cliui/index.js" />
+    <ignored path="Exam April2018/node_modules/cliui/LICENSE.txt" />
+    <ignored path="Exam April2018/node_modules/cliui/package.json" />
+    <ignored path="Exam April2018/node_modules/cliui/README.md" />
+    <ignored path="Exam April2018/node_modules/decamelize/index.js" />
+    <ignored path="Exam April2018/node_modules/decamelize/license" />
+    <ignored path="Exam April2018/node_modules/decamelize/package.json" />
+    <ignored path="Exam April2018/node_modules/decamelize/readme.md" />
+    <ignored path="Exam April2018/node_modules/handlebars/.idea/copyright/profiles_settings.xml" />
+    <ignored path="Exam April2018/node_modules/handlebars/.idea/dictionaries/nknappmeier.xml" />
+    <ignored path="Exam April2018/node_modules/handlebars/.idea/inspectionProfiles/Project_Default.xml" />
+    <ignored path="Exam April2018/node_modules/handlebars/.idea/compiler.xml" />
+    <ignored path="Exam April2018/node_modules/handlebars/.idea/handlebars.js.iml" />
+    <ignored path="Exam April2018/node_modules/handlebars/.idea/jsLibraryMappings.xml" />
+    <ignored path="Exam April2018/node_modules/handlebars/.idea/misc.xml" />
+    <ignored path="Exam April2018/node_modules/handlebars/.idea/modules.xml" />
+    <ignored path="Exam April2018/node_modules/handlebars/.idea/vcs.xml" />
+    <ignored path="Exam April2018/node_modules/handlebars/.idea/watcherTasks.xml" />
+    <ignored path="Exam April2018/node_modules/handlebars/.idea/workspace.xml" />
+    <ignored path="Exam April2018/node_modules/handlebars/bin/handlebars" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/compiler/ast.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/compiler/base.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/compiler/code-gen.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/compiler/compiler.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/compiler/helpers.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/compiler/javascript-compiler.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/compiler/parser.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/compiler/printer.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/compiler/visitor.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/compiler/whitespace-control.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/decorators/inline.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/helpers/block-helper-missing.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/helpers/each.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/helpers/helper-missing.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/helpers/if.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/helpers/log.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/helpers/lookup.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/helpers/with.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/base.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/decorators.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/exception.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/helpers.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/logger.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/no-conflict.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/runtime.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/safe-string.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars/utils.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/handlebars.runtime.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/amd/precompiler.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/compiler/ast.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/compiler/code-gen.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/compiler/helpers.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/compiler/javascript-compiler.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/compiler/printer.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/compiler/visitor.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/compiler/whitespace-control.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/decorators/inline.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/helpers/block-helper-missing.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/helpers/each.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/helpers/helper-missing.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/helpers/if.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/helpers/log.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/helpers/lookup.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/helpers/with.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/base.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/decorators.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/exception.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/helpers.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/logger.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/no-conflict.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/runtime.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/safe-string.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars/utils.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/handlebars.runtime.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/cjs/precompiler.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/handlebars.amd.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/handlebars.amd.min.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/handlebars.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/handlebars.min.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/handlebars.runtime.amd.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/handlebars.runtime.amd.min.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/handlebars.runtime.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/dist/handlebars.runtime.min.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/docs/compiler-api.md" />
+    <ignored path="Exam April2018/node_modules/handlebars/docs/decorators-api.md" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/compiler/ast.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/compiler/base.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/compiler/code-gen.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/compiler/compiler.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/compiler/helpers.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/compiler/javascript-compiler.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/compiler/parser.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/compiler/printer.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/compiler/visitor.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/compiler/whitespace-control.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/decorators/inline.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/helpers/block-helper-missing.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/helpers/each.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/helpers/helper-missing.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/helpers/if.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/helpers/log.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/helpers/lookup.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/helpers/with.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/base.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/decorators.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/exception.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/helpers.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/logger.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/no-conflict.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/runtime.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/safe-string.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars/utils.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/handlebars.runtime.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/index.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/lib/precompiler.js" />
+    <ignored path="Exam April2018/node_modules/handlebars/.gitattributes" />
+    <ignored path="Exam April2018/node_modules/handlebars/.gitmodules" />
+    <ignored path="Exam April2018/node_modules/handlebars/.istanbul.yml" />
+    <ignored path="Exam April2018/node_modules/handlebars/.npmignore" />
+    <ignored path="Exam April2018/node_modules/handlebars/appveyor.yml" />
+    <ignored path="Exam April2018/node_modules/handlebars/CONTRIBUTING.md" />
+    <ignored path="Exam April2018/node_modules/handlebars/FAQ.md" />
+    <ignored path="Exam April2018/node_modules/handlebars/LICENSE" />
+    <ignored path="Exam April2018/node_modules/handlebars/package-lock.json" />
+    <ignored path="Exam April2018/node_modules/handlebars/package.json" />
+    <ignored path="Exam April2018/node_modules/handlebars/print-script" />
+    <ignored path="Exam April2018/node_modules/handlebars/README.markdown" />
+    <ignored path="Exam April2018/node_modules/handlebars/release-notes.md" />
+    <ignored path="Exam April2018/node_modules/handlebars/runtime.js" />
+    <ignored path="Exam April2018/node_modules/is-buffer/test/basic.js" />
+    <ignored path="Exam April2018/node_modules/is-buffer/index.js" />
+    <ignored path="Exam April2018/node_modules/is-buffer/LICENSE" />
+    <ignored path="Exam April2018/node_modules/is-buffer/package.json" />
+    <ignored path="Exam April2018/node_modules/is-buffer/README.md" />
+    <ignored path="Exam April2018/node_modules/jquery/dist/core.js" />
+    <ignored path="Exam April2018/node_modules/jquery/dist/jquery.js" />
+    <ignored path="Exam April2018/node_modules/jquery/dist/jquery.min.js" />
+    <ignored path="Exam April2018/node_modules/jquery/dist/jquery.min.map" />
+    <ignored path="Exam April2018/node_modules/jquery/dist/jquery.slim.js" />
+    <ignored path="Exam April2018/node_modules/jquery/dist/jquery.slim.min.js" />
+    <ignored path="Exam April2018/node_modules/jquery/dist/jquery.slim.min.map" />
+    <ignored path="Exam April2018/node_modules/jquery/external/sizzle/dist/sizzle.js" />
+    <ignored path="Exam April2018/node_modules/jquery/external/sizzle/dist/sizzle.min.js" />
+    <ignored path="Exam April2018/node_modules/jquery/external/sizzle/dist/sizzle.min.map" />
+    <ignored path="Exam April2018/node_modules/jquery/external/sizzle/LICENSE.txt" />
+    <ignored path="Exam April2018/node_modules/jquery/src/ajax/var/location.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/ajax/var/nonce.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/ajax/var/rquery.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/ajax/jsonp.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/ajax/load.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/ajax/parseXML.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/ajax/script.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/ajax/xhr.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/attributes/attr.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/attributes/classes.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/attributes/prop.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/attributes/support.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/attributes/val.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/var/rsingleTag.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/access.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/camelCase.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/DOMEval.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/init.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/nodeName.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/parseHTML.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/ready-no-deferred.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/ready.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/readyException.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/stripAndCollapse.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/support.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core/toType.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css/var/cssExpand.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css/var/getStyles.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css/var/isHiddenWithinTree.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css/var/rboxStyle.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css/var/rnumnonpx.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css/var/swap.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css/addGetHookIf.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css/adjustCSS.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css/curCSS.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css/hiddenVisibleSelectors.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css/showHide.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css/support.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/data/var/acceptData.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/data/var/dataPriv.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/data/var/dataUser.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/data/Data.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/deferred/exceptionHook.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/effects/animatedSelector.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/effects/Tween.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/event/ajax.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/event/alias.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/event/focusin.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/event/support.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/event/trigger.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/exports/amd.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/exports/global.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/manipulation/var/rcheckableType.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/manipulation/var/rscriptType.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/manipulation/var/rtagName.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/manipulation/_evalUrl.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/manipulation/buildFragment.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/manipulation/getAll.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/manipulation/setGlobalEval.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/manipulation/support.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/manipulation/wrapMap.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/queue/delay.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/traversing/var/dir.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/traversing/var/rneedsContext.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/traversing/var/siblings.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/traversing/findFilter.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/arr.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/class2type.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/concat.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/document.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/documentElement.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/fnToString.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/getProto.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/hasOwn.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/indexOf.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/isFunction.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/isWindow.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/ObjectFunctionString.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/pnum.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/push.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/rcssNum.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/rnothtmlwhite.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/slice.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/support.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/var/toString.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/.eslintrc.json" />
+    <ignored path="Exam April2018/node_modules/jquery/src/ajax.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/attributes.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/callbacks.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/core.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/css.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/data.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/deferred.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/deprecated.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/dimensions.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/effects.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/event.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/jquery.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/manipulation.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/offset.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/queue.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/selector-native.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/selector-sizzle.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/selector.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/serialize.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/traversing.js" />
+    <ignored path="Exam April2018/node_modules/jquery/src/wrap.js" />
+    <ignored path="Exam April2018/node_modules/jquery/AUTHORS.txt" />
+    <ignored path="Exam April2018/node_modules/jquery/bower.json" />
+    <ignored path="Exam April2018/node_modules/jquery/LICENSE.txt" />
+    <ignored path="Exam April2018/node_modules/jquery/package.json" />
+    <ignored path="Exam April2018/node_modules/jquery/README.md" />
+    <ignored path="Exam April2018/node_modules/kind-of/index.js" />
+    <ignored path="Exam April2018/node_modules/kind-of/LICENSE" />
+    <ignored path="Exam April2018/node_modules/kind-of/package.json" />
+    <ignored path="Exam April2018/node_modules/kind-of/README.md" />
+    <ignored path="Exam April2018/node_modules/lazy-cache/index.js" />
+    <ignored path="Exam April2018/node_modules/lazy-cache/LICENSE" />
+    <ignored path="Exam April2018/node_modules/lazy-cache/package.json" />
+    <ignored path="Exam April2018/node_modules/lazy-cache/README.md" />
+    <ignored path="Exam April2018/node_modules/longest/index.js" />
+    <ignored path="Exam April2018/node_modules/longest/LICENSE" />
+    <ignored path="Exam April2018/node_modules/longest/package.json" />
+    <ignored path="Exam April2018/node_modules/longest/README.md" />
+    <ignored path="Exam April2018/node_modules/minimist/example/parse.js" />
+    <ignored path="Exam April2018/node_modules/minimist/test/bool.js" />
+    <ignored path="Exam April2018/node_modules/minimist/test/dash.js" />
+    <ignored path="Exam April2018/node_modules/minimist/test/default_bool.js" />
+    <ignored path="Exam April2018/node_modules/minimist/test/dotted.js" />
+    <ignored path="Exam April2018/node_modules/minimist/test/long.js" />
+    <ignored path="Exam April2018/node_modules/minimist/test/num.js" />
+    <ignored path="Exam April2018/node_modules/minimist/test/parse.js" />
+    <ignored path="Exam April2018/node_modules/minimist/test/parse_modified.js" />
+    <ignored path="Exam April2018/node_modules/minimist/test/short.js" />
+    <ignored path="Exam April2018/node_modules/minimist/test/whitespace.js" />
+    <ignored path="Exam April2018/node_modules/minimist/.travis.yml" />
+    <ignored path="Exam April2018/node_modules/minimist/index.js" />
+    <ignored path="Exam April2018/node_modules/minimist/LICENSE" />
+    <ignored path="Exam April2018/node_modules/minimist/package.json" />
+    <ignored path="Exam April2018/node_modules/minimist/readme.markdown" />
+    <ignored path="Exam April2018/node_modules/optimist/example/bool.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/boolean_double.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/boolean_single.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/default_hash.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/default_singles.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/divide.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/line_count.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/line_count_options.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/line_count_wrap.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/nonopt.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/reflect.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/short.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/string.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/usage-options.js" />
+    <ignored path="Exam April2018/node_modules/optimist/example/xup.js" />
+    <ignored path="Exam April2018/node_modules/optimist/test/_/argv.js" />
+    <ignored path="Exam April2018/node_modules/optimist/test/_/bin.js" />
+    <ignored path="Exam April2018/node_modules/optimist/test/_.js" />
+    <ignored path="Exam April2018/node_modules/optimist/test/dash.js" />
+    <ignored path="Exam April2018/node_modules/optimist/test/parse.js" />
+    <ignored path="Exam April2018/node_modules/optimist/test/parse_modified.js" />
+    <ignored path="Exam April2018/node_modules/optimist/test/short.js" />
+    <ignored path="Exam April2018/node_modules/optimist/test/usage.js" />
+    <ignored path="Exam April2018/node_modules/optimist/test/whitespace.js" />
+    <ignored path="Exam April2018/node_modules/optimist/.travis.yml" />
+    <ignored path="Exam April2018/node_modules/optimist/index.js" />
+    <ignored path="Exam April2018/node_modules/optimist/LICENSE" />
+    <ignored path="Exam April2018/node_modules/optimist/package.json" />
+    <ignored path="Exam April2018/node_modules/optimist/readme.markdown" />
+    <ignored path="Exam April2018/node_modules/repeat-string/index.js" />
+    <ignored path="Exam April2018/node_modules/repeat-string/LICENSE" />
+    <ignored path="Exam April2018/node_modules/repeat-string/package.json" />
+    <ignored path="Exam April2018/node_modules/repeat-string/README.md" />
+    <ignored path="Exam April2018/node_modules/right-align/index.js" />
+    <ignored path="Exam April2018/node_modules/right-align/LICENSE" />
+    <ignored path="Exam April2018/node_modules/right-align/package.json" />
+    <ignored path="Exam April2018/node_modules/right-align/README.md" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/public/javascripts/app.js" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/public/javascripts/jquery.cloudkit.js" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/public/javascripts/jquery.js" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/public/javascripts/sammy.js" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/public/javascripts/sammy.json.js" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/public/javascripts/sammy.storage.js" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/public/javascripts/sammy.template.js" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/public/templates/index.html.erb" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/public/templates/task.html.erb" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/public/templates/task_details.html.erb" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/views/app.sass" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/views/index.haml" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/app.rb" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/config.ru" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/Rakefile" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/backend/README.md" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/ejs/index.html" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/ejs/what.ejs" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/ejs/who.ejs" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/form_handling/files/form.html" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/form_handling/index.html" />
+    <ignored path="Exam April2018/node_modules/sammy/examples/hello_world/index.html" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.cache-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.cache-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.data_location_proxy-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.data_location_proxy-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.ejs-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.ejs-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.exceptional-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.exceptional-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.flash-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.flash-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.form-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.form-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.form_2_json-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.form_2_json-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.googleanalytics-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.googleanalytics-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.haml-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.haml-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.handlebars-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.handlebars-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.hogan-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.hogan-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.hoptoad-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.hoptoad-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.json-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.json-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.kissmetrics-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.kissmetrics-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.meld-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.meld-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.mixpanel-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.mixpanel-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.mustache-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.mustache-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.nested_params-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.nested_params-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.oauth2-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.oauth2-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.path_location_proxy-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.path_location_proxy-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.pure-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.pure-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.push_location_proxy-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.push_location_proxy-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.storage-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.storage-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.template-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.template-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.title-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.title-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.tmpl-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/plugins/sammy.tmpl-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/sammy-0.7.6.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/min/sammy-latest.min.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.cache.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.data_location_proxy.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.ejs.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.exceptional.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.flash.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.form.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.form_2_json.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.googleanalytics.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.haml.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.handlebars.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.hogan.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.hoptoad.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.json.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.kissmetrics.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.meld.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.mixpanel.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.mustache.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.nested_params.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.oauth2.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.path_location_proxy.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.pure.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.push_location_proxy.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.storage.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.template.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.title.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/plugins/sammy.tmpl.js" />
+    <ignored path="Exam April2018/node_modules/sammy/lib/sammy.js" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/meld/1.html" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/meld/1.json" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/meld/1.meld" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/meld/2.html" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/meld/2.json" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/meld/2.meld" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/meld/3.html" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/meld/3.json" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/meld/3.meld" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/item.hogan" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/item.mustache" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/item.template" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/item2.mustache" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/list.html" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/other_partial.template" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/partial" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/partial.hogan" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/partial.html" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/partial.json" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/partial.mustache" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/partial.noengine" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/partial.template" />
+    <ignored path="Exam April2018/node_modules/sammy/test/fixtures/partial2.mustache" />
+    <ignored path="Exam April2018/node_modules/sammy/test/application_spec.js" />
+    <ignored path="Exam April2018/node_modules/sammy/test/event_context_spec.js" />
+    <ignored path="Exam April2018/node_modules/sammy/test/exceptional_spec.js" />
+    <ignored path="Exam April2018/node_modules/sammy/test/flash_spec.js" />
+    <ignored path="Exam April2018/node_modules/sammy/test/hoptoad_spec.js" />
+    <ignored path="Exam April2018/node_modules/sammy/test/index.html" />
+    <ignored path="Exam April2018/node_modules/sammy/test/location_proxy_spec.js" />
+    <ignored path="Exam April2018/node_modules/sammy/test/meld_spec.js" />
+    <ignored path="Exam April2018/node_modules/sammy/test/plugins_spec.js" />
+    <ignored path="Exam April2018/node_modules/sammy/test/render_context_spec.js" />
+    <ignored path="Exam April2018/node_modules/sammy/test/storage_spec.js" />
+    <ignored path="Exam April2018/node_modules/sammy/test/test_server" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/jsdoc/templates/klass.haml" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/jsdoc/templates/menu.haml" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/jsdoc/templates/method.haml" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/jsdoc/jsdoc.rb" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/mocha/expect.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/mocha/helpers.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/mocha/mocha.css" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/mocha/mocha.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/qunit/qunit.css" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/qunit/qunit.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/templating/ejs.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/templating/haml.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/templating/handlebars.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/templating/hogan.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/templating/mustache.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/templating/pure.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/templating/tmpl.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/docs.json" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/jquery.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/jslitmus.js" />
+    <ignored path="Exam April2018/node_modules/sammy/vendor/qunit-spec.js" />
+    <ignored path="Exam April2018/node_modules/sammy/.npmignore" />
+    <ignored path="Exam April2018/node_modules/sammy/bower.json" />
+    <ignored path="Exam April2018/node_modules/sammy/Gemfile" />
+    <ignored path="Exam April2018/node_modules/sammy/Gemfile.lock" />
+    <ignored path="Exam April2018/node_modules/sammy/HISTORY.md" />
+    <ignored path="Exam April2018/node_modules/sammy/LICENSE" />
+    <ignored path="Exam April2018/node_modules/sammy/package.json" />
+    <ignored path="Exam April2018/node_modules/sammy/Rakefile" />
+    <ignored path="Exam April2018/node_modules/sammy/README.md" />
+    <ignored path="Exam April2018/node_modules/source-map/build/assert-shim.js" />
+    <ignored path="Exam April2018/node_modules/source-map/build/mini-require.js" />
+    <ignored path="Exam April2018/node_modules/source-map/build/prefix-source-map.jsm" />
+    <ignored path="Exam April2018/node_modules/source-map/build/prefix-utils.jsm" />
+    <ignored path="Exam April2018/node_modules/source-map/build/suffix-browser.js" />
+    <ignored path="Exam April2018/node_modules/source-map/build/suffix-source-map.jsm" />
+    <ignored path="Exam April2018/node_modules/source-map/build/suffix-utils.jsm" />
+    <ignored path="Exam April2018/node_modules/source-map/build/test-prefix.js" />
+    <ignored path="Exam April2018/node_modules/source-map/build/test-suffix.js" />
+    <ignored path="Exam April2018/node_modules/source-map/lib/source-map/array-set.js" />
+    <ignored path="Exam April2018/node_modules/source-map/lib/source-map/base64-vlq.js" />
+    <ignored path="Exam April2018/node_modules/source-map/lib/source-map/base64.js" />
+    <ignored path="Exam April2018/node_modules/source-map/lib/source-map/binary-search.js" />
+    <ignored path="Exam April2018/node_modules/source-map/lib/source-map/mapping-list.js" />
+    <ignored path="Exam April2018/node_modules/source-map/lib/source-map/quick-sort.js" />
+    <ignored path="Exam April2018/node_modules/source-map/lib/source-map/source-map-consumer.js" />
+    <ignored path="Exam April2018/node_modules/source-map/lib/source-map/source-map-generator.js" />
+    <ignored path="Exam April2018/node_modules/source-map/lib/source-map/source-node.js" />
+    <ignored path="Exam April2018/node_modules/source-map/lib/source-map/util.js" />
+    <ignored path="Exam April2018/node_modules/source-map/lib/source-map.js" />
+    <ignored path="Exam April2018/node_modules/source-map/package.json" />
+    <ignored path="Exam April2018/node_modules/source-map/README.md" />
+    <ignored path="Exam April2018/node_modules/uglify-js/bin/extract-props.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/bin/uglifyjs" />
+    <ignored path="Exam April2018/node_modules/uglify-js/lib/ast.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/lib/compress.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/lib/mozilla-ast.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/lib/output.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/lib/parse.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/lib/propmangle.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/lib/scope.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/lib/sourcemap.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/lib/transform.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/lib/utils.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/dist/source-map.debug.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/dist/source-map.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/dist/source-map.min.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/dist/source-map.min.js.map" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/lib/array-set.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/lib/base64-vlq.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/lib/base64.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/lib/binary-search.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/lib/mapping-list.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/lib/quick-sort.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/lib/source-map-consumer.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/lib/source-map-generator.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/lib/source-node.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/lib/util.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/CHANGELOG.md" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/LICENSE" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/package.json" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/README.md" />
+    <ignored path="Exam April2018/node_modules/uglify-js/node_modules/source-map/source-map.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/tools/domprops.json" />
+    <ignored path="Exam April2018/node_modules/uglify-js/tools/exports.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/tools/node.js" />
+    <ignored path="Exam April2018/node_modules/uglify-js/tools/props.html" />
+    <ignored path="Exam April2018/node_modules/uglify-js/LICENSE" />
+    <ignored path="Exam April2018/node_modules/uglify-js/package.json" />
+    <ignored path="Exam April2018/node_modules/uglify-js/README.md" />
+    <ignored path="Exam April2018/node_modules/uglify-to-browserify/test/index.js" />
+    <ignored path="Exam April2018/node_modules/uglify-to-browserify/.npmignore" />
+    <ignored path="Exam April2018/node_modules/uglify-to-browserify/.travis.yml" />
+    <ignored path="Exam April2018/node_modules/uglify-to-browserify/index.js" />
+    <ignored path="Exam April2018/node_modules/uglify-to-browserify/LICENSE" />
+    <ignored path="Exam April2018/node_modules/uglify-to-browserify/package.json" />
+    <ignored path="Exam April2018/node_modules/uglify-to-browserify/README.md" />
+    <ignored path="Exam April2018/node_modules/window-size/index.js" />
+    <ignored path="Exam April2018/node_modules/window-size/LICENSE-MIT" />
+    <ignored path="Exam April2018/node_modules/window-size/package.json" />
+    <ignored path="Exam April2018/node_modules/window-size/README.md" />
+    <ignored path="Exam April2018/node_modules/wordwrap/example/center.js" />
+    <ignored path="Exam April2018/node_modules/wordwrap/example/meat.js" />
+    <ignored path="Exam April2018/node_modules/wordwrap/test/break.js" />
+    <ignored path="Exam April2018/node_modules/wordwrap/test/idleness.txt" />
+    <ignored path="Exam April2018/node_modules/wordwrap/test/wrap.js" />
+    <ignored path="Exam April2018/node_modules/wordwrap/index.js" />
+    <ignored path="Exam April2018/node_modules/wordwrap/LICENSE" />
+    <ignored path="Exam April2018/node_modules/wordwrap/package.json" />
+    <ignored path="Exam April2018/node_modules/wordwrap/README.markdown" />
+    <ignored path="Exam April2018/node_modules/yargs/lib/completion.js" />
+    <ignored path="Exam April2018/node_modules/yargs/lib/parser.js" />
+    <ignored path="Exam April2018/node_modules/yargs/lib/usage.js" />
+    <ignored path="Exam April2018/node_modules/yargs/lib/validation.js" />
+    <ignored path="Exam April2018/node_modules/yargs/CHANGELOG.md" />
+    <ignored path="Exam April2018/node_modules/yargs/completion.sh.hbs" />
+    <ignored path="Exam April2018/node_modules/yargs/index.js" />
+    <ignored path="Exam April2018/node_modules/yargs/LICENSE" />
+    <ignored path="Exam April2018/node_modules/yargs/package.json" />
+    <ignored path="Exam April2018/node_modules/yargs/README.md" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="2018-04-15" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.7673301">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Exam April2018/js/app.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="280">
+                  <caret line="151" column="25" lean-forward="true" selection-start-line="151" selection-start-column="25" selection-end-line="151" selection-end-column="25" />
+                  <folding>
+                    <element signature="e#244#406#0" />
+                    <element signature="e#602#1534#0" />
+                    <element signature="e#2221#3595#0" />
+                    <element signature="e#6221#6581#0" />
+                    <element signature="e#10702#11676#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+            <entry file="vcs://D:/JS Core/JS Apps/Exams JS Apps/2018-04-15/Exam April2018/js/app.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="176">
+                  <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="header-menu.hbs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Exam April2018/templates/common/header-menu.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="198">
+                  <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="receipt-row.hbs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Exam April2018/templates/common/receipt-row.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="154">
+                  <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="row.hbs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Exam April2018/templates/common/row.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret selection-end-line="7" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="detail-row.hbs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Exam April2018/templates/common/detail-row.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="110">
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Exam April2018/pointResurses/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4356">
+                  <caret line="198" selection-start-line="175" selection-start-column="4" selection-end-line="198" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="allreceipts.hbs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Exam April2018/templates/allreceipts.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="484">
+                  <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="createReceipt.hbs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Exam April2018/templates/forms/createReceipt.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret selection-end-line="23" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="active-rows.hbs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Exam April2018/templates/forms/active-rows.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="44">
+                  <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Exam April2018/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="161">
+                  <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>url</find>
+      <find>;</find>
+      <find>Chirp</find>
+      <find>endpoint</find>
+      <find>create-receipt-form</find>
+      <find>camel</find>
+      <find>redi</find>
+      <find>data</find>
+      <find>renderHomeScreen</find>
+      <find>Gettin</find>
+      <find>dataHandler</find>
+      <find>wait</find>
+      <find>footer</find>
+      <find>renderHome</find>
+      <find>then</find>
+      <find>handleErrorsh</find>
+      <find>handleError</find>
+      <find>load</find>
+      <find>login</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>endpoint</replace>
+      <replace>Recepy</replace>
+      <replace />
+      <replace>Saler</replace>
+      <replace>showError</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="DrA" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Exam April2018" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Exam April2018/templates/common/footer.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/welcome.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/js/requestHandler.js" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/common/headerMenu.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/receiptsOveerview.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/receiptsOverview.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/home.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/js/auth.js" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/forms/table-foot.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/forms/create-entry-form.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/forms/active-rows.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/forms/createReceipt.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/common/row.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/index.html" />
+        <option value="$PROJECT_DIR$/Exam April2018/js/requestExchanger.js" />
+        <option value="$PROJECT_DIR$/Exam April2018/js/examWorker.js" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/common/receiptRow.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/common/detail-row.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/receipt-details.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/allreceipts.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/common/receipt-row.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/templates/common/header-menu.hbs" />
+        <option value="$PROJECT_DIR$/Exam April2018/js/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Exam April2018/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/handlebars/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/jquery/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/sammy/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/Exam April2018/node_modules/yargs/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="21" />
+    <option name="y" value="238" />
+    <option name="width" value="916" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2018-04-15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-04-15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-04-15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-04-15" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam April2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-04-15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-04-15" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam April2018" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-04-15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-04-15" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam April2018" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-04-15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-04-15" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam April2018" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-04-15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-04-15" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam April2018" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="forms" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c36ab4ce-bade-47b4-9392-418426934a92" name="Default" comment="" />
+      <created>1523796702867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523796702867</updated>
+      <workItem from="1523796705008" duration="21836000" />
+      <workItem from="1523820089584" duration="527000" />
+      <workItem from="1524322560370" duration="9392000" />
+      <workItem from="1524351251324" duration="432000" />
+      <workItem from="1524377997595" duration="18187000" />
+      <workItem from="1524467975009" duration="4638000" />
+      <workItem from="1524472739019" duration="2398000" />
+      <workItem from="1524481823642" duration="1351000" />
+      <workItem from="1524483725306" duration="18536000" />
+      <workItem from="1524613415698" duration="2839000" />
+      <workItem from="1524616359381" duration="163000" />
+      <workItem from="1524638247745" duration="6705000" />
+      <workItem from="1524777243563" duration="1405000" />
+      <workItem from="1524782053924" duration="6113000" />
+      <workItem from="1524839813845" duration="7871000" />
+      <workItem from="1524861401602" duration="1362000" />
+      <workItem from="1524864856459" duration="596000" />
+      <workItem from="1524908747658" duration="10358000" />
+      <workItem from="1524922763588" duration="7569000" />
+      <workItem from="1525009535027" duration="8552000" />
+      <workItem from="1525032672100" duration="45000" />
+      <workItem from="1525032768597" duration="7000" />
+      <workItem from="1525164274341" duration="671000" />
+      <workItem from="1525165289105" duration="8496000" />
+      <workItem from="1525255885719" duration="2531000" />
+      <workItem from="1525260243283" duration="9862000" />
+      <workItem from="1525368751691" duration="1632000" />
+      <workItem from="1525443657526" duration="16471000" />
+      <workItem from="1525599615155" duration="4832000" />
+    </task>
+    <task id="LOCAL-00001" summary="JsApps Exam SoftUni 15 apr 2018">
+      <created>1525606064014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525606064014</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="175377000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19605348" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32914925" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5003183" side_tool="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32914925" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49968174" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.11018131" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.2495226" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32914925" />
+      <window_info id="Favorites" order="0" side_tool="true" weight="0.32972628" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19605348" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.11018131" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32914925" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32914925" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JsApps Exam SoftUni 15 apr 2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="JsApps Exam SoftUni 15 apr 2018" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/home.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/receiptsOverview.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/examWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" column="37" lean-forward="true" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/requestHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/forms/createReceipt.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="65" lean-forward="true" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/home.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/receiptsOverview.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/welcome.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/examWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/forms/createReceipt.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/requestHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="60" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="80" column="66" lean-forward="true" selection-start-line="80" selection-start-column="66" selection-end-line="80" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/home.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/receiptsOverview.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/welcome.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/examWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="60" lean-forward="true" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/forms/createReceipt.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/requestHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/common/footer.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/notifications.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/forms/register.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/welcome.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/loginView.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/home.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/examWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/requestHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/requestExchanger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/forms/table-foot.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/forms/create-entry-form.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/node_modules/repeat-string/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/receiptsOverview.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/forms/createReceipt.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/forms/active-rows.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/pointResurses/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4356">
+          <caret line="198" selection-start-line="175" selection-start-column="4" selection-end-line="198" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/common/detail-row.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/receipt-details.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/allreceipts.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/common/row.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/common/receipt-row.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/templates/common/header-menu.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam April2018/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="151" column="25" lean-forward="true" selection-start-line="151" selection-start-column="25" selection-end-line="151" selection-end-column="25" />
+          <folding>
+            <element signature="e#244#406#0" />
+            <element signature="e#602#1534#0" />
+            <element signature="e#2221#3595#0" />
+            <element signature="e#6221#6581#0" />
+            <element signature="e#10702#11676#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

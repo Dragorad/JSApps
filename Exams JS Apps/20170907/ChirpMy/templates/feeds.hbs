@@ -1,0 +1,21 @@
+<section id="viewFeed">
+    <div class="content">
+        <div class="chirper">
+
+            <h2 class="titlebar">Pesho</h2>
+{{> submitChirp}}
+
+            <div id="userStats" class="user-details">
+                <span>0 chirps</span> | <span>1 following</span> | <span>0 followers</span>
+            </div>
+        </div>
+        <div id="chirps" class="chirps"><h2 class="titlebar">Chirps</h2>
+            {{#each data}}
+                {{> chirp}}
+            {{/each}}
+
+
+            <!-- TODO Load more articles -->
+        </div>
+    </div>
+</section>

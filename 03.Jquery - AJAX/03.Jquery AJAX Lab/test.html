@@ -1,0 +1,10 @@
+
+
+
+$(document).ajaxError(function(event, req, settings) {
+$('#text').text(`Error handling data ${req.status} (${req.statusText})`)
+})
+
+function loadRepos() {
+$('#text').load('http://dir.bg')
+}

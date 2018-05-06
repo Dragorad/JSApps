@@ -1,0 +1,21 @@
+{{> header}}
+{{> navigation}}
+<section id="viewMe">
+    <div class="content">
+        <div class="chirper">
+
+            <h2 class="titlebar">Pesho</h2>
+{{> submitChirp}}
+
+            <div id="myStats" class="user-details">
+                <span>{{userChirpsCount}} chirps</span> | <span>{{usersFollowing}} following</span> | <span>{{followers}} followers</span>
+            </div>
+        </div>
+        <div id="myChirps" class="chirps">
+            <h2 class="titlebar">Chirps</h2>
+            <div class="chirp"><span class="loading">No chirps in database</span></div>
+        </div>
+    </div>
+</section>
+
+{{> footer}}
